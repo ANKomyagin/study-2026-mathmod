@@ -12,8 +12,8 @@ author:
       city: Москва
       address: ул. Миклухо-Маклая, д. 6
 ## Title
-title: Лабораторная работа №1
-subtitle: Установка стенда
+title: Лабораторная работа №2
+subtitle: Задача о погоне
 license: CC BY
 date: today
 date-format: "YYYY-MM-DD" # Example: 2025-09-06
