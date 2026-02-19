@@ -64,3 +64,5 @@ format:
     indent: true
     include-in-header:
       - file: _resources/tex/preamble.tex
+      - text: |
+          \usepackage{animate}

@@ -30,6 +30,10 @@ format:
     indent: true
     include-in-header:
       - file: _resources/tex/beamer.tex
+      - text: |
+          \usepackage{animate}
+          % Только для заголовков
+          \setbeamercolor{titlelike}{fg=black}
     #### Language
     babel-lang: russian
     babel-otherlangs: english
